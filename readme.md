@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/stellarbeat/js-stellar-node-crawler)
+
 # stellar-js-node-crawler
 
 Crawl the stellar network for nodes
